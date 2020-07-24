@@ -27,9 +27,11 @@ npm run db:change-branch origin master ## For development
 npm run db-change-branch origin pr-wip/json-schema-validator.
 ```
 
-See the following links to learn more how to contribute to the database.
+See the following links to learn more on how to contribute to the database.
 
 {% page-ref page="schema/" %}
+
+{% page-ref page="add-entry.md" %}
 
 
 

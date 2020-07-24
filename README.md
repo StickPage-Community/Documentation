@@ -1,6 +1,8 @@
 # README
 
-Welcome to the StickPage API Documentation! This documentation site is currently work-in-progress, as some parts contain incomplete or even missing information.
+Welcome to the StickPage API Documentation! In this website contains information about our [Central Database Repository](central-db/about-central-database.md), the StickPage API Wrapper for online lookup, its basic Node.js package for offline lookup, and the API server.
+
+This documentation site is currently work-in-progress, as some parts contain incomplete or even missing information.
 
 ## How to contribute?
 
