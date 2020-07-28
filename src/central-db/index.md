@@ -24,10 +24,10 @@ npm run db:clone
 npm run db:list-remotes && npm run db:list-branches
 npm run db:change-branch origin master ## For development
 ## or use this for stable releases, arguments in 'git checkout' allowed.
-npm run db-change-branch origin pr-wip/json-schema-validator.
+npm run db-change-branch origin AndreiJirohHaliliDev2006-master-patch
 ```
 
-See the following links to learn more on how to contribute to the database.
+See the following links to learn more about how to contribute to the database.
 
 {% page-ref page="schema/" %}
 
