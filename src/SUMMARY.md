@@ -11,3 +11,9 @@
 * [Updating existing entry](central-db/updating-entry.md)
 * [Removing an entry](central-db/remove-entry.md)
 
+## Community
+
+* [Policies](community/policies/README.md)
+  * [Community Code of Conduct](community/policies/code-of-conduct.md)
+  * [Reporting Code of Conduct Violations](community/policies/reporting-violations.md)
+

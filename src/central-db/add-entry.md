@@ -31,10 +31,10 @@ If you're ready to continue, [skip to the process section](add-entry.md#the-proc
 ### Somebody's stick character
 
 {% hint style="info" %}
-**Updating or removing an entry?** See Updating current entry or Removing an entry for details.
+**Updating or removing an entry?** See [Updating current entry](updating-entry.md) or [Removing an entry](remove-entry.md) for details.
 {% endhint %}
 
-Before adding a stick character that made by someone, please check for any active merge requests in both GitHub and GitLab relating to it. If you found one, it better to join the discussion instead of creating new one to keep our backlog clean.
+Before adding a stick character that made by someone, please check for any active merge requests in both GitHub and GitLab relating to it. If you found one, it better to join the discussion instead of creating a new one to keep our backlog clean.
 
 ## The Process
 
@@ -55,7 +55,7 @@ stickpage/stick-character-name-here.json @YOURGHORGLUSERNAMEHERE
 animators/animator-name-here.json @YOURGHORGLUSERNAMEHERE
 ```
 
-* Sign-off your commits \(optionally sign it using your GPG key\) and push to your fork.
+* Sign-off your commits \(and optionally sign it using your GPG key\) and push to your fork.
 * Create a new merge request and follow the discussion.
 
 ## FAQ
@@ -100,6 +100,6 @@ Regards,
 Possible reasons are:
 
 * **Your entry doesn't have enough data.** Please fill up the fields as possible as you can.
-* **The link/s don't work anymore.** Make sure links are working. If not, fix it.
-* Not up to the standards.
+* **The link/s don't work anymore.** Make sure links are working. If not, attempt to fix it or use the Wayback Machine link.
+* Not up to the standards. 
 
