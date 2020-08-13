@@ -4,6 +4,10 @@
 **The following Community Code of Conduct is** [**adapted from the Citizen Code of Conduct**](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md)**.** Your feedback is important in improving the Code of Conduct across open-source projects for the community. File a new issue on GitHub if you have one.
 {% endhint %}
 
+{% hint style="warning" %}
+**The Community Code of Conduct is currently work-in-progress.** We're currently drafting our policies on addressing grievances.
+{% endhint %}
+
 ## Citizen Code of Conduct
 
 ### 1. Purpose
@@ -63,15 +67,15 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ### 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. \[CONTACT\_INFO\_HERE\].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible.
 
-\[LINK\_TO\_REPORTING\_GUIDELINES\]
+To learn more about how to report violations, [click here](reporting-violations.md).
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ### 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify \[GOVERNING\_BODY\] with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. \[LINK\_TO\_POLICY\]
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Community Hubs Network Board with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. \[LINK\_TO\_POLICY\]
 
 \[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.\]
 
@@ -83,7 +87,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ### 10. Contact info
 
-\[YOUR CONTACT INFO HERE -- this should be a single person or a small team who can respond to issues directly\]
+You can contact one of the Community Hubs Network Board members directly or thru email at community-hubs-support@madebythepins.tk.
 
 ### 11. License and attribution
 

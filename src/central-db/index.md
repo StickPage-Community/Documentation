@@ -31,7 +31,7 @@ See the following links to learn more about how to contribute to the database.
 
 {% page-ref page="schema/" %}
 
-{% page-ref page="add-entry.md" %}
+{% page-ref page="contribute/add-entry.md" %}
 
 
 

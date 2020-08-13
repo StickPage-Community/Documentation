@@ -15,7 +15,7 @@
 
 **Type**: String
 
-**Description**: An valid URL to the photo of an stick character.
+**Description**: An valid URL to the photo of a stick character.
 
 ## `characterMeta`
 
@@ -27,7 +27,7 @@
 
 **Type**: JSON Object
 
-**Description**: This object holds metadata about character's weapons, strengths and weaknesses.
+**Description**: This object holds metadata about the character's weapons, strengths, and weaknesses.
 
 #### `weapons`
 
