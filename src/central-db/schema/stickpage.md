@@ -47,3 +47,85 @@
 
 **Description**:
 
+### `creator`
+
+**Type**: JSON Object
+
+Description:
+
+## `battles`
+
+**Type**: JSON Object
+
+**Description**:
+
+{% code title="examples/stickpage-templates/battles.json" %}
+```javascript
+{
+   "opponent": "Name Here",
+   "result": "WIN|LOSE|DRAW",
+   "reference": "https://domain.tld/path/to/ref"
+}
+```
+{% endcode %}
+
+## A complete example
+
+Here's the full example on how a new StickPage entry should be like.
+
+{% code title="templates/stickpage.json" %}
+```javascript
+{
+    "characterName": "Insert name here",
+    "characterPhoto": "https://link.to/the/photo/of/the-character.png",
+    "generalInfo": {
+        "gender": "male|female|other",
+        "status": "active|inactive|retired",
+        "color": "hex format or description"
+    },
+    "characterMeta": {
+        "powersAndAbilities": {
+            "weapons": [
+                "stuff1",
+                "stuff2"
+            ],
+            "strength": [
+                "stuff1",
+                "stuff2"
+            ],
+            "weaknesses": [
+                "stuff1",
+                "stuff2"
+            ]
+        },
+        "animator": {
+            "name": "Name here, either real name or screen name",
+            "yt": "https://youtube.com/channel/id or https://youtube.com/user/usernameGoesHere",
+            "twitch": "https://twitch.tv/stuffHere",
+            "twitter": "https://twitter.com/username",
+            "stickpageForum": "",
+            "hyunsDojoForum": ""
+        },
+        "clan": "clan-name-here-REEEEEEEEEEEEEEEEEEEEEE"
+    },
+    "battles": [
+        {
+            "opponent": "name1",
+            "result": "WIN",
+            "reference": "https://youtu.be/ABCD1234EFG"
+        },
+        {
+            "opponent": "name2",
+            "result": "LOSE",
+            "reference": "https://youtu.be/ABCD1234EFG"
+        },
+        {
+            "opponent": "name3",
+            "result": "DRAW",
+            "reference": "https://youtu.be/ABCD1234EFG"
+        }
+    ]
+}
+```
+{% endcode %}
+

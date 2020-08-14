@@ -17,10 +17,10 @@ Don't worry, we got you covered! [Try a quick DuckDuckGo search](https://duckduc
 * We can easily send a response to the client from the API because JSON is just text-only.
 * JSON is language independent. While JSON uses JavaScript syntax, the JSON format is just text.
 
-### What is the JSON syntax
+### What is the JSON syntax?
 
 {% hint style="info" %}
-See also [this article on W3Schools](https://www.w3schools.com/js/js_json_syntax.asp) for more details.
+See also [this article on W3Schools](https://www.w3schools.com/js/js_json_syntax.asp) for more details for detailed syntax.
 {% endhint %}
 
 Values must be a string, a number, an object \(JSON object\), an array, a boolean \(`true` or `false`\), or `null`
